@@ -1,0 +1,781 @@
+{
+  "menus": [
+    {
+      "id": 0,
+      "href": "/",
+      "texto": "Inicio"
+    },
+    {
+      "id": 1,
+      "href": "/proyectos",
+      "texto": "Proyectos",
+      "icon": ""
+    },
+    {
+      "href": "/servicios",
+      "texto": "Servicios",
+      "icon": "fa fa-bard4",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "href": "/noticias",
+      "texto": "Noticias",
+      "icon": "fa fa-component"
+    },
+    {
+      "id": "5",
+      "href": "/contactanos",
+      "texto": "Contactanos",
+      "icon": "fe fe-icon"
+    }
+  ],
+  "noticias": [
+    {
+      "id": "1",
+      "categoria": "Tecnología",
+      "titulo": "WhatsApp Plus Rojo: Descarga la última versión del APK de noviembre 2023",
+      "descripcion": "WhatsApp Plus se ha convertido en una de las aplicaciones no oficiales más utilizadas. Por ello, el APK ha realizado una nueva versión Red que brindará muchos beneficios a todos sus usuarios.<br />  El WhatsApp Plus Red cuenta funciones muy novedosas. Si quieres descargar este app no oficial en tu celular, entonces tienes que revisar las próximas líneas,  porque conocerás los simples pasos que debes seguir.<br /><br /> <h1>WhatsApp Plus Red: ¿Cuáles son las novedosas funciones?</h1><br />  Este WhastApp Plus Red cuenta con muchas novedades.  A continuación, te diremos un listado de las diferentes herramientas que posee este APK.<br /><br /> 1) Los usuarios pueden personalizar sus chats. No tienen muchos anuncios <br />2) Los colores de su interfaz <br />puedes cambiarlo a diferentes colores  3) Tiene una barra de navegación.<br /> 4) Se puede visualizar si tus amigos están conectados y a qué hora utilizaron el app.<br />5)Sabrás quién cambió su foto de perfil. ",
+      "usuario": "admin",
+      "fecha_publicacion": "10/10/2023",
+      "numero_comentarios": 1,
+      "imagen": "./images/noticia1.png"
+    },
+    {
+      "id": "2",
+      "categoria": "Tecnología",
+      "titulo": "WhatsApp Plus Rojo: Descarga la última versión del APK de noviembre 2023",
+      "descripcion": "WhatsApp Plus se ha convertido en una de las aplicaciones no oficiales más utilizadas. Por ello, el APK ha realizado una nueva versión Red que brindará muchos beneficios a todos sus usuarios.<br />  El WhatsApp Plus Red cuenta funciones muy novedosas. Si quieres descargar este app no oficial en tu celular, entonces tienes que revisar las próximas líneas,  porque conocerás los simples pasos que debes seguir.<br /><br /> <h1>WhatsApp Plus Red: ¿Cuáles son las novedosas funciones?</h1><br />  Este WhastApp Plus Red cuenta con muchas novedades.  A continuación, te diremos un listado de las diferentes herramientas que posee este APK.<br /><br /> 1) Los usuarios pueden personalizar sus chats. No tienen muchos anuncios <br />2) Los colores de su interfaz <br />puedes cambiarlo a diferentes colores  3) Tiene una barra de navegación.<br /> 4) Se puede visualizar si tus amigos están conectados y a qué hora utilizaron el app.<br />5)Sabrás quién cambió su foto de perfil.",
+      "usuario": "admin",
+      "fecha_publicacion": "10/11/2022",
+      "numero_comentarios": 1,
+      "imagen": "./images/noticia2.png"
+    },
+    {
+      "id": "3",
+      "categoria": "Tecnología",
+      "titulo": "WhatsApp Plus Rojo: Descarga la última versión del APK de noviembre 2023",
+      "descripcion": "WhatsApp Plus se ha convertido en una de las aplicaciones no oficiales más utilizadas. Por ello, el APK ha realizado una nueva versión Red que brindará muchos beneficios a todos sus usuarios.<br />  El WhatsApp Plus Red cuenta funciones muy novedosas. Si quieres descargar este app no oficial en tu celular, entonces tienes que revisar las próximas líneas,  porque conocerás los simples pasos que debes seguir.<br /><br /> <h1>WhatsApp Plus Red: ¿Cuáles son las novedosas funciones?</h1><br />  Este WhastApp Plus Red cuenta con muchas novedades.  A continuación, te diremos un listado de las diferentes herramientas que posee este APK.<br /><br /> 1) Los usuarios pueden personalizar sus chats. No tienen muchos anuncios <br />2) Los colores de su interfaz <br />puedes cambiarlo a diferentes colores  3) Tiene una barra de navegación.<br /> 4) Se puede visualizar si tus amigos están conectados y a qué hora utilizaron el app.<br />5)Sabrás quién cambió su foto de perfil.",
+      "usuario": "user",
+      "fecha_publicacion": "11/08/2023",
+      "numero_comentarios": 2,
+      "imagen": "./images/noticia3.png"
+    }
+  ],
+  "publicidad": [
+    {
+      "id": "1",
+      "titulo": "-",
+      "imagen": "./images/publicidad/1.png",
+      "url": "./",
+      "fecha_publicacion": "10/10/2023"
+    },
+    {
+      "id": "2",
+      "titulo": "-",
+      "imagen": "./images/publicidad/2.png",
+      "url": "./Rutadeejemplo",
+      "fecha_publicacion": "10/10/2023"
+    }
+  ],
+  "slider": [
+    {
+      "inicio": [
+        {
+          "id": "I001",
+          "texto": "2",
+          "imagen": "/proyectos/imagen1.png",
+          "href": ""
+        },
+        {
+          "id": "I002",
+          "texto": "",
+          "imagen": "/proyectos/imagen2.png",
+          "href": ""
+        },
+        {
+          "id": "I003",
+          "texto": "",
+          "imagen": "/proyectos/imagen3.png",
+          "href": ""
+        }
+      ]
+    },
+    {
+      "noticias": [
+        {
+          "id": "N001",
+          "texto": "Noticias",
+          "imagen": "/images/bannerpaginas/noticias.png",
+          "href": ""
+        }
+      ]
+    },
+    {
+      "proyectos": [
+        {
+          "id": "P001",
+          "texto": "Proyectos Disponibles",
+          "imagen": "/images/bannerpaginas/proyectos.png",
+          "href": ""
+        }
+      ]
+    },
+    {
+      "clientes": [
+        {
+          "id": "C001",
+          "texto": "Clientes y Auspiciadores",
+          "imagen": "/images/bannerpaginas/clientesyauspiciadores.png",
+          "href": ""
+        }
+      ]
+    },
+    {
+      "servicios": [
+        {
+          "id": "S001",
+          "texto": "Servicios",
+          "imagen": "/images/bannerpaginas/servicios.png",
+          "href": ""
+        }
+      ]
+    },
+    {
+      "contactanos": [
+        {
+          "id": "CT01",
+          "texto": "Contactanos",
+          "imagen": "/images/bannerpaginas/contactanos.png",
+          "href": ""
+        }
+      ]
+    }
+  ],
+  "slider2": [
+    {
+      "id": "I001",
+      "texto": "2",
+      "categoria": "inicio",
+      "imagen": "/proyectos/imagen1.png",
+      "href": ""
+    },
+    {
+      "id": "I002",
+      "texto": "",
+      "categoria": "inicio",
+      "imagen": "/proyectos/imagen2.png",
+      "href": ""
+    },
+    {
+      "id": "I003",
+      "texto": "",
+      "categoria": "inicio",
+      "imagen": "/proyectos/imagen3.png",
+      "href": ""
+    },
+    {
+      "id": "N001",
+      "texto": "Noticias",
+      "categoria": "noticias",
+      "imagen": "/images/bannerpaginas/noticias.png",
+      "href": ""
+    },
+    {
+      "id": "P001",
+      "texto": "Proyectos Disponibles",
+      "categoria": "proyectos",
+      "imagen": "/images/bannerpaginas/proyectos.png",
+      "href": ""
+    },
+    {
+      "id": "C001",
+      "texto": "Clientes y Auspiciadores",
+      "categoria": "clientes",
+      "imagen": "/images/bannerpaginas/clientesyauspiciadores.png",
+      "href": ""
+    },
+    {
+      "id": "S001",
+      "texto": "Servicios",
+      "categoria": "servicios",
+      "imagen": "/images/bannerpaginas/servicios.png",
+      "href": ""
+    },
+    {
+      "id": "CT01",
+      "texto": "Contactanos",
+      "categoria": "contactanos",
+      "imagen": "/images/bannerpaginas/contactanos.png",
+      "href": ""
+    }
+  ],
+  "proyectos": [
+    {
+      "id": 14,
+      "titulo": "Villas de Chosica",
+      "descripcion": "Más de 200 Familias viviendo en Villas de Chosica, entregamos casas con construcción tradicional, trabajamos con el fondo mi vivienda.",
+      "href": "https://www.gammaurbana.com",
+      "image": "/images/proyectos/villachosica.png",
+      "direccion": "La Victoria",
+      "departamento": "Lambayeque",
+      "numerovistas": 103,
+      "destacado": true,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "10/10/2023"
+    },
+    {
+      "id": 15,
+      "titulo": "Altamira Residencial",
+      "descripcion": "Nuestras viviendas serán construidas con materiales nobles y sólidos. Este tipo de construcción permite que tu hogar sea fuerte y perdurable. Trabajamos con estructuras que permiten modificar la casa de acuerdo a tus necesidades.",
+      "href": "https://gammaurbana.com",
+      "image": "/images/proyectos/altamiraresidencial.png",
+      "direccion": "Reque",
+      "departamento": "Lambayeque",
+      "numerovistas": 101,
+      "destacado": true,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "10/10/2023"
+    },
+    {
+      "id": 1,
+      "descripcion": "Condominio privado con todos los servicios básicos incluidos, obras finalizadas y listo para construir, ubicado en la zona más exclusiva y segura de todo Chiclayo",
+      "href": "https://www.facebook.com/ProcasaNorte",
+      "image": "/images/proyectos/villasipan.png",
+      "titulo": "Club Privado Villa Sípan",
+      "direccion": "Pimentel",
+      "departamento": "Lambayeque",
+      "numerovistas": 80,
+      "destacado": true,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "01/12/2023"
+    },
+    {
+      "id": 2,
+      "descripcion": "Proyecto de Habilitación Urbana con todos los servicios básicos incluidos, ubicado en la zona más exclusiva y segura de todo Chiclayo.",
+      "href": "https://www.facebook.com/ProcasaNorte",
+      "image": "/images/proyectos/contryclub.png",
+      "titulo": "Garza Blanca Country Club",
+      "direccion": "Pimentel",
+      "departamento": "Lambayeque",
+      "numerovistas": 99,
+      "destacado": true,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "01/12/2023"
+    },
+    {
+      "id": 3,
+      "titulo": "Villa Bonita Urbanización",
+      "descripcion": "Descubra la vida de ensueño en Villa Bonita Urbanización, ubicada en Chiclayo. Con precios a partir de S/85,500 y terrenos desde 90 m2.",
+      "href": "https://www.facebook.com/InmobiliariayConstructoraVillaAstonSAC/",
+      "image": "/images/proyectos/1.jpg",
+      "direccion": "Chiclayo",
+      "departamento": "Lambayeque",
+      "numerovistas": 1,
+      "destacado": false,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "10/10/2023"
+    },
+    {
+      "id": 4,
+      "titulo": "Villa Guatapé",
+      "descripcion": "Descubre Villa Guatapé, tu oasis de tranquilidad a solo 10 minutos de Reque. Terrenos desde S/6,000 con servicios completos, parques y diversión para toda la familia. ¡Tu hogar ideal te espera!",
+      "href": "https://www.facebook.com/YaencontreInmobiliaria/",
+      "image": "/images/proyectos/4.jpg",
+      "direccion": "10 minutos de Reque",
+      "departamento": "Lambayeque",
+      "numerovistas": 1,
+      "destacado": false,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "01/05/2023"
+    },
+    {
+      "id": 5,
+      "titulo": "Urbanización Villa del Campo",
+      "descripcion": "Descubre la comodidad y la naturaleza en armonía en Urbanización Villa del Campo, en Lambayeque. Terrenos desde 90 m², con precios a partir de S/21,900.00.",
+      "href": "https://www.facebook.com/CasaAmericaCix/",
+      "image": "/images/proyectos/5.jpg",
+      "direccion": "A 2 cuadras del óvalo MOCCE",
+      "departamento": "Lambayeque",
+      "numerovistas": 4,
+      "destacado": false,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "80 m2",
+      "fecha_registro": "01/10/2023"
+    },
+    {
+      "id": 6,
+      "titulo": "Villa Bobadilla",
+      "descripcion": "Descubre el encanto de Villa Bobadilla en el Distrito de Ferreñafe, Provincia de Ferreñafe. A solo 5 minutos del centro",
+      "href": "https://www.facebook.com/g.inmobiliariojetc/",
+      "image": "/images/proyectos/6.jpg",
+      "direccion": "Carretera Ferreñafe - Pítipo",
+      "departamento": "Lambayeque",
+      "numerovistas": 3,
+      "destacado": false,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "50 m2",
+      "fecha_registro": "21/11/2023"
+    },
+    {
+      "id": 7,
+      "titulo": "Villa Ribera",
+      "descripcion": "",
+      "href": "https://www.facebook.com/alitorresinmobiliaria?locale=es_LA",
+      "image": "/images/proyectos/2.jpg",
+      "direccion": "5 minutos del centro de Motupe ",
+      "departamento": "Lambayeque",
+      "numerovistas": 1,
+      "destacado": false,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "10/11/2023"
+    },
+    {
+      "id": 8,
+      "titulo": "Villa los Laureles",
+      "descripcion": "Descubre tu futuro hogar en Villa los Laureles en Monsefú. Terrenos a partir de 90m2 desde S/14,000, donde encontrarás una vida llena de comodidades y belleza. ¡Haz de Villa los Laureles tu próximo destino!",
+      "href": "https://www.facebook.com/LLHomeinmobiliaria.pe",
+      "image": "/images/proyectos/3.jpg",
+      "direccion": "Monsefú",
+      "departamento": "Lambayeque",
+      "numerovistas": 1,
+      "destacado": false,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "95 m2",
+      "fecha_registro": "20/10/2023"
+    },
+    {
+      "id": 9,
+      "titulo": "Nuevo Picsi",
+      "descripcion": "les presentamos nuestro proyecto Nuevo Picsi, ubicado a filo de pista de la carretera Picsi - Ferreñafe.",
+      "href": "https://www.facebook.com/InmobiliariayConstructoraVillaAstonSAC",
+      "image": "/images/proyectos/9.jpg",
+      "direccion": "Picsi",
+      "departamento": "Lambayeque",
+      "numerovistas": 1,
+      "destacado": true,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "10/10/2023"
+    },
+    {
+      "id": 10,
+      "titulo": "La Molina Chacupe",
+      "descripcion": "Ven y conoce nuestro proyecto de lotización para casas de campo con un descuento del 100% ecosostenible.",
+      "href": "https://www.facebook.com/InmobiliariayConstructoraVillaAstonSAC",
+      "image": "/images/proyectos/10.jpg",
+      "direccion": "La Victoria",
+      "departamento": "Lambayeque",
+      "numerovistas": 3,
+      "destacado": false,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "30/11/2023"
+    },
+    {
+      "id": 11,
+      "titulo": "Country Club: Pino Real de Ferreñafe",
+      "descripcion": "Luz, agua, desagüe a través de Biodigestores, 05 Parques temáticos, 03 Canchas Luz, Agua, desagüe a través de Biodigestores, 06 parques temáticos, 02 Canchas deportivas, 02 pórticos de Ingreso, Casa Club, Piscina, Capilla, Cerco Vivo, A 3 Minutos Del Museo SICAN.",
+      "href": "https://www.facebook.com/Boaria.Inmobiliaria/",
+      "image": "/images/proyectos/pireal.jpg",
+      "direccion": "Ferreñafe",
+      "departamento": "Lambayeque",
+      "numerovistas": 70,
+      "destacado": true,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "140 m2",
+      "fecha_registro": "04/12/2023"
+    },
+    {
+      "id": 12,
+      "titulo": "Condominio Ecológico: Arrecifes de Morrope",
+      "descripcion": "Luz, Agua, Desagüe a través de biodigestores, 05 parques temáticos, 03 Canchas Deportivas, 02 pórticos De Ingreso, Laguna Artificial, Casa Club, Piscina, Capilla, Cerco Vivo, A 15 Minutos De Playas Vírgenes.",
+      "href": "https://www.facebook.com/Boaria.Inmobiliaria/",
+      "image": "/images/proyectos/arrecifesdemorrope.jpg",
+      "direccion": "Morrope",
+      "departamento": "Lambayeque",
+      "numerovistas": 60,
+      "destacado": true,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "150 m2",
+      "fecha_registro": "04/12/2023"
+    },
+    {
+      "id": 13,
+      "titulo": "Laureles de Pimentel",
+      "descripcion": "Exclusiva Habilitación Urbana completa con todos los beneficios básicos, agua, luz, desagüe, pórtico de ingreso, pistas, veredas, parque, drenaje pluvial y mucho más.",
+      "href": "https://www.facebook.com/diermo.inmobiliaria",
+      "image": "/images/proyectos/laurelesdepimentel.jpg",
+      "direccion": "Pimentel",
+      "departamento": "Lambayeque",
+      "numerovistas": 65,
+      "destacado": true,
+      "parques": true,
+      "jardines": true,
+      "luz": true,
+      "agua": true,
+      "pistas": true,
+      "veredas": true,
+      "lotesdesdem2": "90 m2",
+      "fecha_registro": "06/12/2023"
+    }
+  ],
+  "menusES": [
+    {
+      "id": 1,
+      "href": "/informacion",
+      "texto": "",
+      "icon": "/images/icons/logoGarzaB1.png"
+    },
+    {
+      "id": 2,
+      "href": "/informacion",
+      "texto": "Informacion",
+      "icon": ""
+    },
+    {
+      "id": 3,
+      "href": "/ubicacion",
+      "texto": "Ubicacion",
+      "icon": ""
+    },
+    {
+      "id": 4,
+      "href": "/plano",
+      "texto": "Plano",
+      "icon": ""
+    },
+    {
+      "id": 5,
+      "href": "/timeline",
+      "texto": "TimeLine",
+      "icon": ""
+    },
+    {
+      "id": 6,
+      "href": "/empresa",
+      "texto": "Empresa",
+      "icon": ""
+    }
+  ],
+  "sliderES": [
+    {
+      "id": "IA01",
+      "titulo": "Garza Blanca",
+      "subtitulo": "Te damos la bienvenida al gran Country Club",
+      "categoria": "informacion",
+      "imagen": "/images/icons/bannerprincipal.png",
+      "href": "https://drive.google.com/file/d/1PQu-sPMaYC6RHjsY3UY_6LKEQMUY_E0n/preview"
+    },
+    {
+      "id": "UA01",
+      "titulo": "",
+      "subtitulo": "Ubicacion",
+      "categoria": "ubicacion",
+      "imagen": "/images/bannerpaginas/noticias.png",
+      "href": ""
+    },
+    {
+      "id": "PA01",
+      "titulo": "",
+      "subtitulo": "Plano",
+      "categoria": "plano",
+      "imagen": "/images/bannerpaginas/proyectos.png",
+      "href": ""
+    },
+    {
+      "id": "TA01",
+      "titulo": "",
+      "subtitulo": "Timeline",
+      "categoria": "timeline",
+      "imagen": "/images/bannerpaginas/clientesyauspiciadores.png",
+      "href": ""
+    },
+    {
+      "id": "EA01",
+      "titulo": "",
+      "subtitulo": "Empresa",
+      "categoria": "empresa",
+      "imagen": "/images/bannerpaginas/servicios.png",
+      "href": ""
+    }
+  ],
+  "serviciosES": [
+    {
+      "id": 1,
+      "titulo": "Luz",
+      "texto": "",
+      "categoria": "informacion",
+      "imagen": "/images/icons/sol.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 2,
+      "titulo": "Agua",
+      "texto": "informacion",
+      "categoria": "informacion",
+      "imagen": "/images/icons/agua.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 3,
+      "titulo": "Desague",
+      "texto": "ubicacion",
+      "categoria": "informacion",
+      "imagen": "/images/icons/desague.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 4,
+      "categoria": "informacion",
+      "titulo": "Club",
+      "texto": "Plano",
+      "imagen": "/images/icons/clubs.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 5,
+      "categoria": "informacion",
+      "titulo": "Cerco Perimétrico",
+      "texto": "TimeLine",
+      "imagen": "/images/icons/cerco.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 6,
+      "categoria": "informacion",
+      "titulo": "Agua",
+      "texto": "Empresa",
+      "imagen": "/images/icons/agua.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 7,
+      "categoria": "informacion",
+      "titulo": "Luz",
+      "texto": "Empresa",
+      "imagen": "/images/icons/sol.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 8,
+      "categoria": "informacion",
+      "titulo": "Desague",
+      "texto": "Empresa",
+      "imagen": "/images/icons/desague.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 9,
+      "categoria": "informacion",
+      "titulo": "Club",
+      "texto": "Empresa",
+      "imagen": "/images/icons/clubs.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 10,
+      "categoria": "informacion",
+      "titulo": "Cerco Perimétrico",
+      "texto": "Empresa",
+      "imagen": "/images/icons/cerco.png",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 11,
+      "titulo": "Misión",
+      "texto": "En Procasa Norte Chiclayo SAC, nos dedicamos a transformar la calidad de vivienda a través de nuestros proyectos inmobiliarios. Nuestro compromiso es ofrecer a cada familia un nuevo y exclusivo estándar de vida, creando entornos que integren la naturaleza, seguridad y tranquilidad, adaptados a los anhelos y necesidades de cada hogar.",
+      "categoria": "empresa",
+      "imagen": "",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 12,
+      "titulo": "Visión",
+      "texto": "Nos proyectamos como líderes en el desarrollo inmobiliario de las zonas más exclusivas de Chiclayo, destacándonos por la excelencia en la creación de proyectos inmobiliarios modernos, con estándares de calidad superiores. Aspiramos a ser reconocidos por nuestro compromiso con la innovación, la sostenibilidad y la satisfacción de nuestros clientes, convirtiendo a Procasa Norte Chiclayo SAC en sinónimo de hogares de prestigio y bienestar familiar.",
+      "categoria": "empresa",
+      "imagen": "",
+      "style1": "",
+      "style2": ""
+    },
+    {
+      "id": 13,
+      "titulo": "Etapa 01: Inicio de Obras",
+      "texto": "<iframe src='https://drive.google.com/file/d/1lO-VSU3mVD0_K7kjX7CLuZmBttAyQEOs/preview' allow='autoplay'></iframe>",
+      "categoria": "timeline",
+      "imagen": "https://s1.eestatic.com/2020/03/31/el-cultural/arte/arquitectura/arquitectura_478965138_220258097_956x467.jpg",
+      "style1": "col",
+      "style2": ""
+    },
+    {
+      "id": 14,
+      "titulo": "Etapa 02: Portal de Ingreso",
+      "texto": "mi texto",
+      "categoria": "timeline",
+      "imagen": "https://s1.eestatic.com/2020/03/31/el-cultural/arte/arquitectura/arquitectura_478965138_220258097_956x467.jpg",
+      "style1": "",
+      "style2": "col"
+    },
+    {
+      "id": 15,
+      "titulo": "Etapa 03: Cerco Perimétrico",
+      "texto": "mi texto",
+      "categoria": "timeline",
+      "imagen": "https://s1.eestatic.com/2020/03/31/el-cultural/arte/arquitectura/arquitectura_478965138_220258097_956x467.jpg",
+      "style1": "col",
+      "style2": "col"
+    },
+    {
+      "id": 16,
+      "categoria": "timeline",
+      "titulo": "Etapa 05: Construcción Urbanística",
+      "texto": "https://s1.eestatic.com/2020/03/31/el-cultural/arte/arquitectura/arquitectura_478965138_220258097_956x467.jpg",
+      "imagen": "https://s1.eestatic.com/2020/03/31/el-cultural/arte/arquitectura/arquitectura_478965138_220258097_956x467.jpg",
+      "style1": "col",
+      "style2": "col"
+    },
+    {
+      "id": 17,
+      "titulo": "Etapa 06: Entrega de proyecto",
+      "texto": "mi texto",
+      "categoria": "timeline",
+      "imagen": "https://s1.eestatic.com/2020/03/31/el-cultural/arte/arquitectura/arquitectura_478965138_220258097_956x467.jpg",
+      "style1": "",
+      "style2": "col"
+    }
+  ],
+  "informacionES": [
+    {
+      "id": 1,
+      "titulo": "Luz",
+      "descripcion": "Garza Blanca Country Club, un proyecto urbanístico de primera categoría donde la exclusividad se fusiona con la seguridad y la tranquilidad. Ofrecemos todos los servicios básicos como luz, agua, desagüe, además de veredas y pistas.<br/><br/>Ubicado estratégicamente en la zona más prestigiosa de Chiclayo, Garza Blanca se encuentra rodeado de urbanizaciones selectas y a pasos de la reconocida Universidad Señor de Sipán. Contamos con lotes disponibles a partir de 90m², 120m² y más.",
+      "categoria": "informacion",
+      "imagen1": "https://drive.google.com/file/d/1kGtymqv9iYQgA1Mnu3kBUK_hP83i8emW/preview",
+      "imagen2": "https://drive.google.com/file/d/1mR_W0JtuTIzS7FmrtYEqGKQmi4bJHf-A/preview",
+      "subTitulo": "",
+      "subMensaje1": "",
+      "subMensaje2": ""
+    },
+    {
+      "id": 2,
+      "titulo": "Luz",
+      "descripcion": "Descripción para el timeline, consectetuer adipiscing elit, sed diam nonummy nibh euis-mod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accum- san et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+      "categoria": "timeline",
+      "imagen1": "/images/icons/Portico1.png",
+      "imagen2": "/images/icons/Portico2.png",
+      "subTitulo": "/images/icons/pistasfaltadas.png",
+      "subMensaje1": "/images/icons/Cercoperimetrico.png",
+      "subMensaje2": "/images/icons/Veredas.png"
+    },
+    {
+      "id": 3,
+      "titulo": "Luz",
+      "descripcion": "¡Hola! Somos Procasa Norte, una inmobiliaria dedicada a la creación de entornos residenciales exclusivos en las zonas más exclusivas de Chiclayo, Lambayeque. Desde nuestra fundación en 2017, nos destacamos por ofrecer un nuevo estándar de vida a través de proyectos inmobiliarios innovadores. Nos enfocamos en diseñar espacios que integren la naturaleza, la seguridad y la tranquilidad, añadiendo valor a nuestros proyectos con áreas verdes, parques infantiles, piscinas y más.<br/>Nuestros valores definen nuestro compromiso con el bienestar de la familia. Estamos aquí para ofrecerte lotes que se conviertan en el escenario perfecto para tus sueños y tu estilo de vida. ¡Bienvenidos a Procasa Norte!",
+      "categoria": "empresa",
+      "imagen1": "",
+      "imagen2": "/images/icons/logoGarzaB1.png",
+      "subTitulo": "",
+      "subMensaje1": "En Procasa Norte Chiclayo SAC, nos dedicamos a transformar la calidad de vivienda a través de nuestros proyectos inmobiliarios. Nuestro compromiso es ofrecer a cada familia un nuevo y exclusivo estándar de vida, creando entornos que integren la naturaleza, seguridad y tranquilidad, adaptados a los anhelos y necesidades de cada hogar.",
+      "subMensaje2": "Nos proyectamos como líderes en el desarrollo inmobiliario de las zonas más exclusivas de Chiclayo, destacándonos por la excelencia en la creación de proyectos inmobiliarios modernos, con estándares de calidad superiores. Aspiramos a ser reconocidos por nuestro compromiso con la innovación, la sostenibilidad y la satisfacción de nuestros clientes, convirtiendo a Procasa Norte Chiclayo SAC en sinónimo de hogares de prestigio y bienestar familiar."
+    },
+    {
+      "id": 4,
+      "titulo": "Luz",
+      "descripcion": "",
+      "categoria": "ubicacion",
+      "imagen1": "",
+      "imagen2": "/images/icons/logoGarzaB1.png",
+      "subTitulo": "",
+      "subMensaje1": "",
+      "subMensaje2": ""
+    }
+  ]
+}
