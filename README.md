@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [DashUI Next.js Free Admin Template](https://dashui-free-nextjs-admin-template.vercel.app/)
  Dash UI - Next.js Free admin / dashboard  template created by [Codescandy](https://codescandy.com/) and available on Github
 
@@ -54,3 +55,6 @@ npm run build
 ## Technical Support or Questions
 If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/).
 
+=======
+Por favor usar el código con precaución :)
+>>>>>>> 801289045a7aa8d6f1e6a8ea0f09141c54a9b53b
