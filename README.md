@@ -1,14 +1,4 @@
 <<<<<<< HEAD
-## How to use DashUI?
-
-Clone the Dash UI repo:
-```
-git clone https://github.com/codescandy/dashui-free-nextjs-admin-template.git
-```
-```
-cd dashui-free-nextjs-admin-template
-```
-
 ##  🚀 Getting Started 
 
 ### Installation 👨🏻‍💻
@@ -33,18 +23,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 npm run build
 ```
 
-## Dash UI Next.js Free / Pro Version
-
-| Free Version        | Dash UI Pro
-|---------------------|-------------------------------------------- |
-| 1 Dashboard      | Coming Soon...                                |
-| Profile      | -                                           |
-| Settings | -                                     |
-| Billing |
-| Pricing |
-| 404 Error |
-| Authentication |
-| [Demo](https://dashui-free-nextjs-admin-template.vercel.app/) |
 
 ## Technical Support or Questions
 If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/).
